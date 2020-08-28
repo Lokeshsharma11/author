@@ -1,1 +1,246 @@
-
+{
+    "authorinfo": [
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "31859919",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "311850019",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "31859001",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "37859919",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "31432919",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "10859410",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "45859934",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "31851219",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "31859966",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        },
+        {
+            "authorlogid": "01",
+            "listorder": "list order",
+            "pmid": "11859912",
+            "fullname": "Author Full Name",
+            "firstname": "notes",
+            "middlename": "finished",
+            "lastname": "2022-01-19 03:14:07",
+            "institution": "institution",
+            "firstorlast": "First or Last Author"
+        }
+    ],
+    "journalinfo": [
+        {
+            "journalid": "01",
+            "journalname": "AANA journal",
+            "pmid": "31826279",
+            "nameabbr": "AANA J",
+            "issnprint": "0160-6999",
+            "issnonline": "2162-5239",
+            "isoabbr": "AANA J",
+            "nlmid": "0431420",
+            "rightswipr": "22",
+            "leftswipe": "11",
+            "rightswipepercent": "50%"
+        },
+        {
+            "journalid": "02",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "324",
+            "leftswipe": "227",
+            "rightswipepercent": "62%"
+        },
+        {
+            "journalid": "03",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AADE Ed J",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AADE Ed J",
+            "nlmid": "1141052",
+            "rightswipr": "124",
+            "leftswipe": "27",
+            "rightswipepercent": "62%"
+        },
+        {
+            "journalid": "04",
+            "journalname": "AARN news letter",
+            "pmid": "19826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "224",
+            "leftswipe": "217",
+            "rightswipepercent": "12%"
+        },
+        {
+            "journalid": "05",
+            "journalname": "AARN news letter",
+            "pmid": "36826228",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "24",
+            "leftswipe": "27",
+            "rightswipepercent": "42%"
+        },
+        {
+            "journalid": "06",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "24",
+            "leftswipe": "27",
+            "rightswipepercent": "42%"
+        },
+        {
+            "journalid": "07",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "214",
+            "leftswipe": "127",
+            "rightswipepercent": "72%"
+        },
+        {
+            "journalid": "08",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "34",
+            "leftswipe": "17",
+            "rightswipepercent": "22%"
+        },
+        {
+            "journalid": "09",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "154",
+            "leftswipe": "137",
+            "rightswipepercent": "34%"
+        },
+        {
+            "journalid": "10",
+            "journalname": "AARN news letter",
+            "pmid": "31826279",
+            "nameabbr": "AARN News Lett",
+            "issnprint": "0001-0197",
+            "issnonline": "2162-5239",
+            "isoabbr": "AARN News Lett",
+            "nlmid": "1251052",
+            "rightswipr": "224",
+            "leftswipe": "227",
+            "rightswipepercent": "78%"
+        }
+    ]
+}
